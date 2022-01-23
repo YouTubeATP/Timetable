@@ -1,4 +1,4 @@
-# YWC3DTimetable.github.io
+Timetable
 A simple timetable website made with only HTML
 
 ## To contribute
